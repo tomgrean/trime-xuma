@@ -1,0 +1,91 @@
+# Rime schema settings
+# encoding: utf-8
+
+schema:
+  schema_id: xuma
+  name: 爾雅
+  version: "22.03"
+  author:
+    - 徐国银
+  description: |
+    chinput.com/xuma
+  dependencies:
+    - sgpinyin
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - table_translator
+    - reverse_lookup_translator
+  filters:
+    - uniquifier
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " "
+  max_code_length: 4
+  auto_select: true
+
+translator:
+  dictionary: xuma
+  prism: xuma
+  enable_completion: true
+  enable_encoder: true
+  enable_user_dict: false
+  max_phrase_length: 4
+  enable_sentence: true
+  sentence_over_completion: true
+
+#  preedit_format:
+#  - "xlit|abcdefghijklmnopqrstuvwxyz |糸阝女尸王扌石艹木土日虫山目口⺮魚禾月亻忄金宀火言氵·|"
+#  comment_format:
+#    - "xlit|abcdefghijklmnopqrstuvwxyz|糸阝女尸王扌石艹木土日虫山目口⺮魚禾月亻忄金宀火言氵|"
+
+abc_segmentor:
+  extra_tags:
+    - reverse_lookup
+
+reverse_lookup:
+  dictionary: sgpinyin
+  prism: sgpinyin
+  prefix: "/"
+  suffix: "'"
+  tips: 〔拼音〕
+  preedit_format:
+    - xform/([nljqxy])v/$1ü/
+
+punctuator:
+  import_preset: default
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+  patterns:
+    reverse_lookup: "/[a-z]*$"
+
