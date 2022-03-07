@@ -1116,11 +1116,11 @@ preset_keyboards:
     - {click: '?',long_click: '⊙'}
     - {click: BackSpace}
     - {click: Keyboard_default, long_click: Menu, width: 15}
-    - {click: Keyboard_number, long_click: Color_switch}
+    - {click: Keyboard_number, long_click: '∑'}
     - {click: space, width: 30}
     - {click: '※', long_click: 'Δ'}
     - {click: '.',long_click: '°'}
-    - {click: 'π', long_click: '∑'}
+    - {click: 'π', long_click: '∏'}
     - {click: Return, long_click: select_all, width: 15}
   xuma:
     name: 爾雅鍵盤
@@ -1164,5 +1164,5 @@ preset_keyboards:
     - {click: space, width: 30}
     - {click: '.', long_click: '>'}
     - {click: '/', long_click: '?'}
-    - {click: Return, width: 20}
+    - {click: Return, long_click: copy_all, width: 20}
 
