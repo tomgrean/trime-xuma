@@ -1120,7 +1120,7 @@ preset_keyboards:
     - {click: space, width: 30}
     - {click: '※', long_click: 'Δ'}
     - {click: '.',long_click: '°'}
-    - {click: Hide, long_click: Delete}
+    - {click: 'π', long_click: '∑'}
     - {click: Return, long_click: select_all, width: 15}
   xuma:
     name: 爾雅鍵盤

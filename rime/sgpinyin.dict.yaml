@@ -7,6 +7,10 @@ name: "sgpinyin"
 version: "2016.07.10"
 sort: by_weight
 use_preset_vocabulary: true
+columns:
+  - text
+  - code
+  - weight
 import_tables:
   - sgpinyin.sogouw
 ...
