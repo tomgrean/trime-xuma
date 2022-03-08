@@ -1065,7 +1065,7 @@ preset_keyboards:
     - {click: '4', long_click: '肆', swipe_up: '④'}
     - {click: '5', long_click: '伍', swipe_up: '⑤'}
     - {click: '6', long_click: '陆', swipe_up: '⑥'}
-    - {click: '='}
+    - {click: '=', long_click: '元'}
     - {click: '#', long_click: copy, width: 10}
     - {click: ',', long_click: paste, width: 10}
     - {click: '7', long_click: '柒', swipe_up: '⑦'}
@@ -1074,10 +1074,10 @@ preset_keyboards:
     - {click: BackSpace}
     - {click: '±', width: 10}
     - {click: Keyboard_default, long_click: Keyboard_symbols, width: 10}
-    - {click: space}
+    - {click: space, long_click: '整'}
     - {click: '0', long_click: '零', swipe_up: '⑩'}
     - {click: '.', long_click: select_all}
-    - {click: Return}
+    - {click: Return, long_click: Hide}
   symbols:
     name: 符號
     author: "psd"
@@ -1164,5 +1164,5 @@ preset_keyboards:
     - {click: space, width: 30}
     - {click: '.', long_click: '>'}
     - {click: '/', long_click: '?'}
-    - {click: Return, long_click: copy_all, width: 20}
+    - {click: Return, long_click: Hide, width: 20}
 
