@@ -1866,7 +1866,6 @@ encoder:
 線	auas
 絈	aub
 验尿	auda
-验屍	audg
 验尸	audv
 絟	aue
 絵	auea
@@ -1896,6 +1895,7 @@ encoder:
 綼	aupe
 验血	aupm
 验算	aupn
+验签	aupu
 骢	aur
 骢	aurm
 紾	aus
@@ -1938,7 +1938,6 @@ encoder:
 发人深思	auzk
 验	auzm
 验讫	auzp
-總之	auzz
 允	av
 糸	av
 糹	av
@@ -2357,7 +2356,6 @@ encoder:
 录用	basy
 即用	basy
 陖	bat
-氹仔	batb
 即使	batg
 即便	batg
 录像	batq
@@ -2965,7 +2963,6 @@ encoder:
 陈设	bfzq
 陈诉	bfzr
 建议	bfzw
-承天之祐	bfzw
 陈说	bfzx
 建房	bfzy
 随大流	bfzy
@@ -12406,7 +12403,6 @@ encoder:
 泰山	eamv
 云峰	eamv
 云山	eamv
-素髎	eanc
 泰国	eane
 动因	eanf
 素常	eanq
@@ -29923,7 +29919,6 @@ encoder:
 砾	gvcx
 矿务局	gvdb
 石凳	gvdg
-死屍	gvdg
 磂	gvdk
 石壁	gvdo
 碱金属	gvdp
@@ -31332,7 +31327,6 @@ encoder:
 有线广播	hcwf
 甚广	hcwg
 燕雀安知鸿鹄之志	hcwj
-尪痹	hcwk
 药店	hcwl
 药补	hcwl
 有如神助	hcwn
@@ -31515,6 +31509,7 @@ encoder:
 蓪	hdsz
 聚	hdt
 聚	hdte
+取值	hdte
 苌弘化碧	hdte
 取代	hdtf
 聚集	hdti
@@ -31691,7 +31686,6 @@ encoder:
 萶	hekv
 耳畔	hekx
 蕈	hekz
-耳蝸	heln
 某些	helv
 觐见	hemv
 蔷	hen
@@ -33393,7 +33387,6 @@ encoder:
 布艺	hmhb
 蕽	hmhg
 布鞋	hmhj
-萞蔴	hmhw
 英寸	hmic
 英模	hmih
 英才	hmip
@@ -33439,7 +33432,6 @@ encoder:
 蕒	hmnb
 英国	hmne
 苘	hmo
-英吋	hmoi
 存贮器	hmoj
 英中	hmok
 苘	hmov
@@ -33677,7 +33669,6 @@ encoder:
 蒷	hon
 右眼	honb
 蒷	honb
-颧髎	honc
 聵	hone
 颧骨	hong
 鞼	hong
@@ -34939,7 +34930,6 @@ encoder:
 左邻右里	huhk
 斯情斯景	huhk
 在人耳目	huhn
-萆薢	huhq
 茶花	huht
 苍苍	huhu
 左邻右舍	huhu
@@ -35683,6 +35673,7 @@ encoder:
 联翩	hxzm
 聚米为山	hxzm
 亚洲	hxzs
+联调	hxzs
 联谊	hxzw
 恶浪	hxzw
 芝兰之室	hxzw
@@ -39751,7 +39742,6 @@ encoder:
 桃树	ivid
 木棒	ivie
 木框	ivif
-榴梿	ivif
 桻	ivif
 木工	ivig
 柳工	ivig
@@ -40514,7 +40504,6 @@ encoder:
 过招	izfd
 过河拆桥	izfi
 过热	izfr
-极深研幾	izga
 过万	izgb
 三头两绪	izgc
 过硬	izgg
@@ -43989,7 +43978,6 @@ encoder:
 老脸	jvsu
 老公	jvta
 老翁	jvta
-老俵	jvte
 老兵	jvti
 土丘	jvti
 越冬作物	jvtp
@@ -44171,7 +44159,6 @@ encoder:
 下账	jwmp
 下网	jwmt
 下山	jwmv
-下髎	jwnc
 考察团	jwni
 靌	jwny
 壤	jwo
@@ -46183,7 +46170,6 @@ encoder:
 畅销书	kpbb
 星际	kpbf
 师承	kpbi
-昇阳	kpbk
 归隐	kpbq
 归	kpbu
 归队	kpbu
@@ -49148,7 +49134,6 @@ encoder:
 蚥	ltt
 蚥	ltti
 蝬	lttv
-蜡像舘	ltue
 螩	ltvi
 蜼	ltw
 雐	ltwh
@@ -50372,6 +50357,7 @@ encoder:
 曲不离口	mgyo
 同意	mgyr
 同方	mgyu
+同文	mgyw
 遄	mgz
 同治	mgza
 同为	mgzc
@@ -52728,7 +52714,6 @@ encoder:
 目指气使	nfpt
 恩怨	nfqb
 四大名著	nfqh
-瞭解	nfqs
 欭	nfqw
 恩	nfr
 因势利导	nfrd
@@ -57878,7 +57863,6 @@ encoder:
 跘	oxf
 咲	oxfd
 吹灯拔蜡	oxfl
-踡卧	oxfl
 蹸	oxfz
 跘	oxfz
 吃着不尽	oxgd
@@ -64095,6 +64079,7 @@ encoder:
 外聘	qlhk
 外存	qlhk
 外带	qlhq
+外蒙	qlhq
 外有	qlhs
 外联	qlhx
 外邦	qlib
@@ -70549,7 +70534,6 @@ encoder:
 得道	skxt
 胆道	skxt
 腢	sky
-徳昂族	skyp
 得意	skyr
 脑电波	skzd
 迿	skzd
@@ -75310,7 +75294,6 @@ encoder:
 躲进	tqfk
 顺风转舵	tqfr
 侔色揣称	tqfr
-躭搁	tqfz
 佩	tqg
 躲到	tqga
 佹	tqgb
@@ -75822,7 +75805,6 @@ encoder:
 八仙过海，各显神通	ttid
 父本	ttig
 爻	ttii
-儍事	ttio
 俗艳	ttiq
 信息工程	ttir
 代代相传	ttit
@@ -75867,8 +75849,6 @@ encoder:
 集体舞	ttph
 分身乏术	ttpi
 俗气	ttpq
-儍气	ttpq
-儍笑	ttpr
 犨	ttpw
 爹	ttq
 仆仆风尘	ttqc
@@ -76752,7 +76732,6 @@ encoder:
 倦	txjb
 儯	txje
 伙夫	txjf
-鼻烟壸	txjq
 低首下心	txjr
 俤	txkp
 傔	txlt
@@ -77976,7 +77955,6 @@ encoder:
 会聚	uehd
 全勤	uehe
 今朝有酒今朝醉	uehe
-舘藏	uehf
 从现在起	uehj
 会在	uehk
 愤	uehm
@@ -78177,7 +78155,6 @@ encoder:
 全运会	ueue
 情怀	ueug
 会合	ueug
-慓悍	ueuk
 全球性	ueup
 合理性	ueup
 惜玉怜香	ueur
@@ -85030,6 +85007,7 @@ encoder:
 礼遇	wckz
 摩加迪沙	wckz
 穷	wcl
+安卓	wclk
 安监	wclp
 安上	wcls
 穷	wclx
@@ -86279,7 +86257,6 @@ encoder:
 痛不欲生	wgtp
 窒息	wgtr
 定息	wgtr
-家俬	wgtr
 定价	wgtu
 寡欲	wgtu
 定货	wgtv
@@ -87008,7 +86985,6 @@ encoder:
 衭	wjf
 突击	wjfa
 祛邪	wjfb
-袪邪	wjfb
 庞大	wjfd
 突感	wjfg
 衭	wjfi
@@ -87147,7 +87123,6 @@ encoder:
 痔疮	wjwu
 鹰犬塞途	wjwu
 祛痰	wjwx
-袪痰	wjwx
 褻	wjwy
 福克兰岛	wjxs
 突变	wjyd
@@ -88436,7 +88411,6 @@ encoder:
 癁	wsvb
 穷鸟入怀	wsvu
 礿	wsw
-癥瘕	wswd
 痈疽	wswn
 礿	wsws
 疱疹	wswu
@@ -90736,6 +90710,7 @@ encoder:
 炼铁	xfpp
 半生	xfps
 叛军	xfqf
+烧写	xfqg
 关外	xfql
 减负	xfqm
 减免	xfqo
@@ -91690,7 +91665,6 @@ encoder:
 美文	xjyw
 壮文	xjyw
 美帝	xjyx
-劵商	xjyx
 羕	xjz
 姜汤	xjzb
 凌汛	xjzb
@@ -91774,6 +91748,7 @@ encoder:
 单排	xkfl
 单摆	xkfm
 兽医	xkfp
+单播	xkfp
 单轨	xkfr
 煨	xkfu
 单挑	xkfv
@@ -92825,7 +92800,6 @@ encoder:
 燻	xrmh
 粍	xrmm
 燆	xrmo
-燻肉	xrmu
 烐	xro
 精心呵护	xrof
 着重号	xroj
@@ -98588,7 +98562,6 @@ encoder:
 兴妖作怪	zctu
 潍	zctw
 濯	zctw
-认奴作郞	zctw
 为伴	zctx
 沙僧	zctx
 为自	zctz
@@ -100881,7 +100854,6 @@ encoder:
 诗云	zjea
 澐	zjea
 滚雪球	zjei
-滾雪球	zjei
 法理	zjek
 诗刊	zjel
 湖南	zjem
@@ -104017,7 +103989,6 @@ encoder:
 试金石	zvgv
 潘金莲	zvhf
 浮在	zvhk
-涤蔴	zvhw
 深受其害	zvhw
 淫荡	zvhz
 涤	zvi
