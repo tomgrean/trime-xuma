@@ -4,8 +4,8 @@
 config_version: "0.36"
 
 schema_list:
-  - schema: sgpinyin
   - schema: xuma
+  - schema: py
 
 switcher:
   caption: 〔方案選單〕
