@@ -39,8 +39,8 @@ engine:
     - fallback_segmentor
   translators:
     - punct_translator
-    - table_translator
     - reverse_lookup_translator
+    - table_translator
   filters:
     - uniquifier
 
@@ -79,7 +79,7 @@ reverse_lookup:
     - xform/([nljqxy])v/$1ü/
 
 punctuator:
-  import_preset: default
+  import_preset: symbols
 
 key_binder:
   import_preset: default
@@ -87,5 +87,5 @@ key_binder:
 recognizer:
   import_preset: default
   patterns:
-    reverse_lookup: "/[a-z]*$"
+    reverse_lookup: "^/[a-z]*$"
 
