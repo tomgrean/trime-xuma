@@ -60,14 +60,9 @@ translator:
   enable_sentence: true
   sentence_over_completion: true
 
-#  preedit_format:
-#  - "xlit|abcdefghijklmnopqrstuvwxyz |糸阝女尸王扌石艹木土日虫山目口⺮魚禾月亻忄金宀火言氵·|"
-#  comment_format:
-#    - "xlit|abcdefghijklmnopqrstuvwxyz|糸阝女尸王扌石艹木土日虫山目口⺮魚禾月亻忄金宀火言氵|"
-
-abc_segmentor:
-  extra_tags:
-    - reverse_lookup
+#abc_segmentor:
+#  extra_tags:这个会造成徐码当拼音组词
+#    - reverse_lookup
 
 reverse_lookup:
   dictionary: py
@@ -85,7 +80,6 @@ key_binder:
   import_preset: default
 
 recognizer:
-  import_preset: default
   patterns:
     reverse_lookup: "^/[a-z]*$"
 
